@@ -23,6 +23,8 @@ For Git, the steps are to go to the website, https://git-scm.com/downloads.
 
 From here you are going to want to select the correct operating system you are using and the website will ensure you install it correctly. 
 
+
+
 Step 2:
 
 Now to install Webstorm so you can create beautiful code, you are going to want to start from the link: https://www.jetbrains.com/student/. 
@@ -34,6 +36,8 @@ After being verified you are going to want to link your free license to your Jet
 
 From there you will be able to download webstorm and any other JetBrains IDE with your free license. You are going to want to download webstorm or others of your chooisng and open the downloading package on your device. After following the prompts from your device and agreeing to terms, Webstorm will start installing and you can then use the installed software!
 
+
+
 Step 3: 
 
 To start using Github, you are going to need to create a Github Account!
@@ -42,11 +46,17 @@ To create a Github account you are going to go to the link: https://github.com/j
 
 From this, enter your credientals and you now have a Github account!
 
+
+
+
 Step 4: Lets link together the all 3 softwares to have a workflow to use. 
 
 To connect your newly created Github account that saves your code to your new Webstorm that allows you to create code, follow this:
 
 In your Webstorm, press Ctrl+Alt+S to open system preferences. You are going to select Version control Git. Enter the path to the git.exe. 
+
+
+
 
 Step 5: 
 
@@ -66,6 +76,9 @@ You can Merge code or files, or do push/pull requests depending on your project.
 
 What Github allows you to do is simply work together at a high level. 
 
+
+
+
 Step 6:
 
 To make your files flow from Webstorm to Git you can do the following.
@@ -76,6 +89,8 @@ After this, The Add to Git Dialog will open and simply click Add so that the fil
 
 
 Now you know how to not only use Git, Github, and Webstorm, but you know how to use all 3 together and safely install them!
+
+
 
 
 Glossary:
@@ -103,6 +118,9 @@ Glossary:
 **Remote** - Remote is your repository on Github
 
 **Repository**- Repository is where you can save all your source code and track the changes and progress on it.
+
+
+
 
 Refrences: 
 Introduction to Github and Webstorm by Arthur H. Hendela
