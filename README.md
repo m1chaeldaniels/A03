@@ -25,6 +25,7 @@ From here you are going to want to select the correct operating system you are u
 
 
 
+
 Step 2:
 
 Now to install Webstorm so you can create beautiful code, you are going to want to start from the link: https://www.jetbrains.com/student/. 
